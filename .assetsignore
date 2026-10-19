@@ -1,5 +1,7 @@
 .git/
 .gitignore
+.assetsignore
+wrangler.jsonc
 .claude/
 
 /*.md
